@@ -90,18 +90,25 @@ const Home: React.FC = () => {
       <Card img="/images/9.jpg" />
       <Card img="/images/10.jpg" />
       <Card img="/images/11.jpg" />
-
+      <Card img="/images/12.jpg" />
       <S.Row justify="center">
         <S.Text align="center">26-11-2021</S.Text>
       </S.Row>
-
-      <Card img="/images/12.jpg" />
       <Card img="/images/13.jpg" />
       <Card img="/images/14.jpg" />
       <Card img="/images/15.jpg" />
       <Card img="/images/16.jpg" />
+      <S.Row justify="center">
+        <S.Text align="center">Jamais esqueça, seu valor!</S.Text>
+      </S.Row>
       <Card img="/images/17.jpg" />
       <Card img="/images/18.jpg" />
+      <S.Row justify="flex-end">
+        <S.Text align="right">
+          Eu torço todos os dias por você e para que seus sonhos, desejos e
+          metas se realizem.
+        </S.Text>
+      </S.Row>
       <Card img="/images/19.jpg" />
       <Card img="/images/20.jpg" />
 
@@ -113,6 +120,8 @@ const Home: React.FC = () => {
       </S.Row>
 
       <Card img="/images/21.jpg" />
+      <Card img="/images/22.jpg" />
+      <Card img="/images/23.jpg" />
 
       <S.Row justify="center">
         <S.Text align="center">Eu te amo muito meu amor!</S.Text>
